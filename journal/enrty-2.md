@@ -1,4 +1,4 @@
-<h1>chapter 2 of DOET - The Psychology of Everyday Actions
+<h1>chapter 2 of DOET - The Psychology of Everyday Actions</h1>
 
 Reading Chapter 2 gave me a new appreciation for how psychology influences the way we interact with everyday objects. Norman’s central message is that design should accommodate how people actually think and behave, not how designers wish they did. I know that my own personal experiences with bad design is very frustrating. One that comes to mind is the last time that I tried to use the CSUEB web site (sorry CSUEB). Links that lead to nowhere or links that don't work, search bars that don't search, etc. this is a classic example of how a bad design led to my frustration and self blame. 
 
