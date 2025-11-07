@@ -1,6 +1,7 @@
-#DOET Ch.4 Part.2
+# DOET Ch.4 Part.2
 
-The second part of chapter four focused on how the best designs communicate through their form, sound, and layout, not through manuals or labels. 
+
+## The second part of chapter four focused on how the best designs communicate through their form, sound, and layout, not through manuals or labels. 
 
 Norman introduced the concept of forcing functions, which serve two main purposes: to lock in or to lock out certain actions. I experience lock in features regularly, especially in school. For instance, when I try to close a document before saving, the program prompts me to save my work, something that has rescued me more times than I can count. These small design choices prevent major user errors and highlight how thoughtful constraints can make technology more forgiving.
 
